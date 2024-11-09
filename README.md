@@ -22,6 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noochila&show_icons=true&locale=en" alt="noochila" /></p>
 
 ## 🏆 Leetcode
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=KTS-o7" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=manojnoochila" alt="LeetCode Badges"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noochila&" alt="noochila" /></p>

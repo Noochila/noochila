@@ -10,9 +10,9 @@
 <a href="https://twitter.com/manoj_noochila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manoj_noochila" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manoj-n-5b4399294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-n" height="30" width="40" /></a>
 <a href="https://instagram.com/manoj_noochila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manoj_noochila" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manojnoochila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manojnoochila" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/manojnoochila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manojnoochila" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/noobmaster" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2m_4S_K6PEH-cUS4kM4GFDLavQeiXNpea7h-9Ikib_Q&s" alt="manojnoochila" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/manojnoochila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manojnoochila" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/manojnoochila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manojnoochila" height="30" width="40" /></a> -->
+<!-- <a href="https://www.naukri.com/code360/profile/noobmaster" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2m_4S_K6PEH-cUS4kM4GFDLavQeiXNpea7h-9Ikib_Q&s" alt="manojnoochila" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noochila&show_icons=true&locale=en&layout=compact" alt="noochila" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noochila&show_icons=true&locale=en" alt="noochila" /></p>
+
+## 🏆 Leetcode
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=KTS-o7" alt="LeetCode Badges"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noochila&" alt="noochila" /></p>

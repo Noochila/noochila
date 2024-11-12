@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noochila&show_icons=true&locale=en" alt="noochila" /></p>
 
 ## 🏆 Leetcode
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=manojnoohila" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=manojnoochila" alt="LeetCode Badges"/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=noochila&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
